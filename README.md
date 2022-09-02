@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center">Zero-Shot Text Classification RestAPI and Exploratory Search</h1>
+<h1 align="center">Zero-Shot Text Classification RestAPI and Exploratory Faceted Search for Assinting Research</h1>
 </p>
 
 - Download fastapi folder or clone repository
