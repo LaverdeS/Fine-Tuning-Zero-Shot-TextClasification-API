@@ -16,5 +16,6 @@ While the data collection process is being done, a data story is displayed to th
 The application was developed keeping in mind the context of *assisting research exploration for Human Sciences* but can naturally work for other areas.
 
 The following is a demonstration for the queries: `Burning Man`, `Mariinsky Theatre`
+
 https://user-images.githubusercontent.com/38184042/188108225-263783ea-1200-43c9-93c0-d742c7cac934.mp4
 
