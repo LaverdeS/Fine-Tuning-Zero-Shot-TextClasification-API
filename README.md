@@ -1,4 +1,6 @@
-### ZERO-SHOT CLASSIFICATION RESTAPI
+<p align="center">
+<h1 align="center">ZERO-SHOT CLASSIFICATION RESTAPI AND EXPLORATORY SEARCH</h1>
+</p>
 
 - Download fastapi folder or clone repository
 - Install requirements.txt
